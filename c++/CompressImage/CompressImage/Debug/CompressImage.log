@@ -1,0 +1,15 @@
+﻿Build started 4/9/2558 18:05:16.
+     1>Project "C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\CompressImage\CompressImage.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\opencv\build\include\opencv2 /IC:\opencv\build\include\opencv /IC:\opencv\build\include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\student\documents\jpegcompression\jpegcompression\c++\compressimage\compressimage\source.cpp(66): warning C4101: 'q_50' : unreferenced local variable
+     1>c:\users\student\documents\jpegcompression\jpegcompression\c++\compressimage\compressimage\source.cpp(70): warning C4101: 'q_90' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\Debug\CompressImage.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\Debug\CompressImage.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\Debug\CompressImage.lib" /MACHINE:X86 Debug\Source.obj
+         CompressImage.vcxproj -> C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\Debug\CompressImage.exe
+     1>Done Building Project "C:\Users\Student\Documents\JpegCompression\JpegCompression\c++\CompressImage\CompressImage\CompressImage.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
